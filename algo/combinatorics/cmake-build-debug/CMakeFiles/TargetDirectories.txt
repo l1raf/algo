@@ -1,0 +1,3 @@
+C:/Users/Sabiyat/Documents/code/c++/combinatorics/cmake-build-debug/CMakeFiles/combinatorics.dir
+C:/Users/Sabiyat/Documents/code/c++/combinatorics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sabiyat/Documents/code/c++/combinatorics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sabiyat/Documents/code/c++/contest10/Node.h
+string
+-
+vector
+-
+
+C:/Users/Sabiyat/Documents/code/c++/contest10/ReadWriter.cpp
+fstream
+-
+exception
+-
+Node.h
+C:/Users/Sabiyat/Documents/code/c++/contest10/Node.h
+
+C:/Users/Sabiyat/Documents/code/c++/contest10/dfs.cpp
+ReadWriter.cpp
+C:/Users/Sabiyat/Documents/code/c++/contest10/ReadWriter.cpp
+iostream
+-
+algorithm
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sabiyat/Documents/code/c++/contest11/clothes_template.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+
